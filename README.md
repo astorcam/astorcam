@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Hi there! I'm Asier Astorquiza  
+![Banner](banner.png)
 
-<!--
-**astorcam/astorcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **Computer Engineering student** from Bilbao, Spain 🇪🇸  
+💻 Passionate about **Web Development** and **Software Engineering**  
+📚 Always learning new technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack  
+- 🏗️ Frontend: HTML, CSS, JavaScript, Angular, FLask  
+- 🛠️ Backend: Node.js, Express, Python  
+- 💾 Databases: MySQL, MongoDB  
+
+## 📫 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/asier-astorquiza-andres-496084171/))  
+

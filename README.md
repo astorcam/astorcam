@@ -32,39 +32,39 @@
 
 ---
 
-<h3 align="center">💻 Tecnologías y Habilidades </h3>
+<h3 align="center">💻 Technologies & Skills </h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
 
-### 🖥️ Lenguajes de Programación:
+### 🖥️ Programming Languages:
 - Java ☕
 - Python 🐍
 - C
-  
-### 📊 Administración de Datos:
-- MySQL
-- NoSQL (MongoDB)
 
-### 🌐 Desarrollo Web:
+### 🌐 Web Development:
 - HTML
 - CSS
 - JavaScript
 - Bootstrap 🎨
 - Flask 🌎
-- Angular (Próximamente) 🚀
+- Angular (Coming soon) 🚀
   
 </td>
 <td width="50%" align="left">
+  
+### 📊 Data Management:
+- MySQL
+- NoSQL (MongoDB)
 
-### 🤖 Ciencia de Datos & Machine Learning:
+### 🤖 Data Science & Machine Learning:
 - TensorFlow / Keras
 - NumPy
 - Scikit-learn
 - SciPy
 
-### 🛠️ Herramientas y Metodologías:
+### 🛠️ Tools & Methodologies:
 - Git & GitLab 🧑‍💻
 - Scrum 📅
   </td>
@@ -73,15 +73,23 @@
 
 
 
+</table>
 
-<p>Connect with me on
-<br>	
-<a target="_blank" href="https://www.linkedin.com/in/asier-astorquiza-andres-496084171/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a href="mailto:astorcam@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+---
 
+<h3 align="center">Connect with me on:</h3>
 
-<br>
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/asier-astorquiza-andres-496084171/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:astorcam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
 </p>
+
+
+
+
  
 

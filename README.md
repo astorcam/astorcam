@@ -3,7 +3,7 @@
 ![Banner](banner.png)
 
 
-🎓 **Computer Engineering student** from Bilbao, Spain 🇪🇸  
+🎓 **Software developer** from Bilbao, Spain 🇪🇸  
 💻 Passionate about **Web Development** and **Software Engineering**  
 📚 Always learning new technologies  
 
